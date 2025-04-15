@@ -2029,13 +2029,13 @@
 			<key>PayloadDescription</key>
 			<string>Configures settings for a web clip</string>
 			<key>PayloadDisplayName</key>
-			<string>Web Clip</string>
+			<string>PenguinStore App</string>
 			<key>PayloadIdentifier</key>
 			<string>com.apple.webClip.managed.D7F1E430-8E85-4D0B-B822-128A22DBB77E</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>D7F1E430-8E85-4D0B-B822-128A22DBB77E</string>
+			<string>D7F1E463-8E85-4D0B-B822-128A22DBB77E</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
@@ -2057,7 +2057,7 @@
 	<key>PayloadType</key>
 	<string>Configuration</string>
 	<key>PayloadUUID</key>
-	<string>08E2D3AF-76D5-4C91-A6D7-98A5C7C18E02</string>
+	<string>08E2D3AF--64C91-A6D7-98A5C7C18E02</string>
 	<key>PayloadVersion</key>
 	<integer>1</integer>
 </dict>
