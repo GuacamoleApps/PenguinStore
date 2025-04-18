@@ -2031,25 +2031,25 @@
 			<key>PayloadDisplayName</key>
 			<string>PenguinStore App</string>
 			<key>PayloadIdentifier</key>
-			<string>com.apple.webClip.managed.D7F1E430-8E85-4D0B-B822-128A22DBB77E</string>
+			<string>com.apple.webClip.managed.D7F1E463-8385-4D0B-B822-128A22DBB77E</string>
 			<key>PayloadType</key>
 			<string>com.apple.webClip.managed</string>
 			<key>PayloadUUID</key>
-			<string>D7F1E463-8E85-4D0B-B822-128A22DBB77E</string>
+			<string>D7F1E463-8385-4D0B-B822-128A22DBB77E</string>
 			<key>PayloadVersion</key>
 			<integer>1</integer>
 			<key>Precomposed</key>
 			<false/>
 			<key>URL</key>
-			<string>https://guacamoleapps.github.io/PenguinStore/</string>
+			<string>https://guacamoleapps.github.io/PenguinStore/DeveloperPortal/DevStore.html</string>
 		</dict>
 	</array>
 	<key>PayloadDescription</key>
-	<string>App to show developers how to make a PenguinStore app.</string>
+	<string>App store Early Access/Testing</string>
 	<key>PayloadDisplayName</key>
 	<string>PenguinDevelop</string>
 	<key>PayloadIdentifier</key>
-	<string>PenguinStore_UPID</string>
+	<string>PenguinStoreDev_UPID</string>
 	<key>PayloadOrganization</key>
 	<string>PenguinStore Apps</string>
 	<key>PayloadRemovalDisallowed</key>
