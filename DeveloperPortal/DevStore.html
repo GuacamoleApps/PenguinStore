@@ -1,1 +1,75 @@
-<p>E</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <meta name="theme-color" content="#5a5a5a" />
+  <title>Penguin Store</title>
+  <style>
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      background-color: #868686;
+      margin: 0;
+      padding: 20px;
+      color: #000;
+    }
+
+    h1 {
+      font-size: 28px;
+      font-weight: 700;
+      margin-bottom: 20px;
+    }
+
+    .app-card {
+      display: flex;
+      align-items: center;
+      background-color: #dbdbdb;
+      border-radius: 20px;
+      box-shadow: 0 5px 10px rgba(0, 0, 0, 0.05);
+      padding: 15px;
+      margin-bottom: 15px;
+      transition: transform 0.2s ease;
+    }
+
+    .app-card:hover {
+      transform: scale(1.01);
+      cursor: pointer;
+    }
+
+    .app-card img {
+      border-radius: 20%;
+      width: 100px;
+      height: 100px;
+      object-fit: cover;
+      margin-right: 15px;
+    }
+
+    .app-info {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+    }
+
+    .app-info p {
+      margin: 0;
+      font-size: 16px;
+      color: #333;
+    }
+  </style>
+</head>
+<body>
+  <h1>All Apps</h1>
+
+  <div class="app-card" onclick="window.open('Apps/InstallFiles/YouTube - PenguinStore.mobileconfig')">
+    <img src="img/youtube.png" alt="App Icon" id="app1img" />
+    <div class="app-info">
+      <p>YouTube</p>
+    </div>
+  <div class="app-card" onclick="window.open('Apps/InstallFiles/XBOX - PenguinStore.mobileconfig')">
+    <img src="img/xbox.png" alt="App Icon" id="app3img" />
+    <div class="app-info">
+      <p>Xbox</p>
+    </div>
+  </div>
+</body>
+</html>
